@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test searches the breweries for &quot;Corner Pub&quot; and then verifies it by it's id.</description>
+   <name>SearchBreweriesTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3082b9d-0048-4e2e-913c-bb92ec307477</testCaseGuid>
+</TestCaseEntity>

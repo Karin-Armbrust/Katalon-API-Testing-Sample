@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test will get the breweries by type.</description>
+   <name>BreweriesByTypeTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd652d3d-a354-436c-b958-e1edde6bd4a2</testCaseGuid>
+</TestCaseEntity>
